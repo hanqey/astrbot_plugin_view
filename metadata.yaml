@@ -1,0 +1,7 @@
+name: astrbot_plugin_view
+display_name: 插件状态查看器
+author: hanqey
+desc: 快速查看机器人当前已激活和未激活的插件列表。
+short_desc: 插件激活状态查看
+version: 0.1.0
+repo: https://github.com/hanqey/astrbot_plugin_view
